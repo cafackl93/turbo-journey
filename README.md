@@ -1,3 +1,1 @@
-# turbo-journey
-My Jupyter Notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cafackl93/turbo-journey/master)
+# turbo-journey [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cafackl93/turbo-journey/master)
